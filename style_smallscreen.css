@@ -1,0 +1,41 @@
+body {
+     background-color: #8585ad;
+}
+
+a:link, a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #ffffff;
+	text-decoration: none;
+	text-shadow: 2px 2px #555555;
+}
+
+h1 {
+   text-shadow: 2px 2px #555555;
+   text-align: center;
+}
+
+h2 {
+   text-shadow: 2px 2px #555555;
+   text-align: left;
+}
+
+div {
+    width: 85%;
+    text-align: justify;
+}
+
+#rightpic {
+    float: center;
+    width: 100%;
+    text-align: center;
+}
+
+#leftpic {
+    float: center;
+    width: 100%;
+    text-align: center;
+}
